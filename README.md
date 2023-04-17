@@ -7,7 +7,8 @@ This is a Python project that uses OpenCV to track faces in real time.
 1. Clone this repository to your local machine.
 2. Install the required dependencies by running `pip install -r requirements.txt` in the project directory.
 3. Download the `haarcascade_frontalface_default.xml` file and place it in the project directory. You can download it from [here](https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalface_default.xml).
-4. Run the `face_tracking.py` script.
+4. Downlaod the `haarcascade_eye.xml` file and place it in the project directory. You can download it from [here](https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_eye.xml).
+5. Run the `face_tracking.py` script.
 
 ## Usage
 
